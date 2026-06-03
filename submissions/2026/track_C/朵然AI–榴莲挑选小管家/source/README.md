@@ -9,7 +9,7 @@ Google Gemma 4 Competition - Edge AI 赛道作品。
 
 ## 项目简介
 
-Doran AI 是一个 Android 原生应用，使用 Kotlin、Jetpack Compose、Google ADK Kotlin 和 LiteRT-LM 构建端侧榴莲挑选 Agent。用户可以通过自然语言或表单补齐榴莲重量、房数、形态和品种，拍摄上面、下面、左侧、右侧、正面五个角度照片，然后由本地 Gemma 4 / LiteRT-LM 模型参与对话、工具调用、照片质检和分析流程编排。
+Doran AI 是一个 Android 原生应用，使用 Kotlin、Jetpack Compose、Google ADK Kotlin 和 LiteRT-LM 构建端侧榴莲挑选 Agent。用户可以通过自然语言或表单补齐榴莲重量、房数、形态和品种，拍摄上面、下面、左侧、右侧、正面五个角度照片，然后由本地 Gemma 4 / LiteRT-LM 模型参与对话、工具调用、照片质检和分析流程编排。web介绍：https://doran-one.vercel.app
 
 当前源码已经完成：
 
@@ -127,10 +127,7 @@ chmod +x sendModel.sh
 
 ## 演示视频
 
-
-[![Doran AI 端侧榴莲挑选 Agent](https://github.com/2winter-dev/Gemma4-Hackathon-ShangHai/tree/main/submissions/2026/track_C/%E6%9C%B5%E7%84%B6AI%E2%80%93%E6%A6%B4%E8%8E%B2%E6%8C%91%E9%80%89%E5%B0%8F%E7%AE%A1%E5%AE%B6/preview/doran-splash.jpg)](https://github.com/2winter-dev/Gemma4-Hackathon-ShangHai/tree/main/submissions/2026/track_C/%E6%9C%B5%E7%84%B6AI%E2%80%93%E6%A6%B4%E8%8E%B2%E6%8C%91%E9%80%89%E5%B0%8F%E7%AE%A1%E5%AE%B6/演示视频-DoranAI.mp4)
-
-
+https://doran-one.vercel.app/%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91-DoranAI.mp4
 
 ## 演示流程
 
