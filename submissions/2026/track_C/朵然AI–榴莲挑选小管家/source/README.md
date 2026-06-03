@@ -5,7 +5,7 @@ Google Gemma 4 Competition - Edge AI 赛道作品。
 
 | Doran AI Logo | 榴莲示例图 |
 |---|---|
-| ![Doran AI Logo](doc/preview/doran_logo.png) | ![榴莲示例图](doc/preview/durian_eg.webp) |
+| ![Doran AI Logo](../preview/doran_logo.png) | ![榴莲示例图](../preview/durian_eg.webp) |
 
 ## 项目简介
 
@@ -141,33 +141,33 @@ chmod +x sendModel.sh
 
 | 首页 | 初始对话 | Agent 对话 |
 |---|---|---|
-| ![Doran 首页](doc/preview/doran-home.jpg) | ![Doran 初始对话](doc/preview/doran-chat-init.jpg) | ![Doran Agent 对话](doc/preview/doran-chat.jpg) |
+| ![Doran 首页](../preview/doran-home.jpg) | ![Doran 初始对话](../preview/doran-chat-init.jpg) | ![Doran Agent 对话](../preview/doran-chat.jpg) |
 
 | 五角度拍摄 | Gemma4 照片质检 | 模型管理 |
 |---|---|---|
-| ![Doran 五角度拍摄](doc/preview/doran-take-photo.jpg) | ![Gemma4 照片质检](doc/preview/doran-gemma4-scan.jpg) | ![模型管理](doc/preview/doran-model-manage.jpg) |
+| ![Doran 五角度拍摄](../preview/doran-take-photo.jpg) | ![Gemma4 照片质检](../preview/doran-gemma4-scan.jpg) | ![模型管理](../preview/doran-model-manage.jpg) |
 
 | 历史记录 | 数据统计 | 侧边导航 |
 |---|---|---|
-| ![历史记录](doc/preview/doran-history.jpg) | ![数据统计](doc/preview/doran-data.jpg) | ![侧边导航](doc/preview/doran-drawer-menu.jpg) |
+| ![历史记录](../preview/doran-history.jpg) | ![数据统计](../preview/doran-data.jpg) | ![侧边导航](../preview/doran-drawer-menu.jpg) |
 
 | 成就页 | 成就徽章 | 桌面组件 |
 |---|---|---|
-| ![成就页](doc/preview/doran-Achievement.jpg) | ![成就徽章](doc/preview/doran-badge.jpg) | ![桌面组件](doc/preview/doran-widget.jpg) |
+| ![成就页](../preview/doran-Achievement.jpg) | ![成就徽章](../preview/doran-badge.jpg) | ![桌面组件](../preview/doran-widget.jpg) |
 
 | 关于页 | 启动页 |
 |---|---|
-| ![关于页](doc/preview/doran-about.jpg) | ![启动页](doc/preview/doran-splash.jpg) |
+| ![关于页](../preview/doran-about.jpg) | ![启动页](../preview/doran-splash.jpg) |
 
 ### 夜间模式
 
 | 夜间首页 | 夜间初始对话 | 夜间模型管理 |
 |---|---|---|
-| ![夜间首页](doc/preview/dark/doran-home.jpg) | ![夜间初始对话](doc/preview/dark/doran-chat-init.jpg) | ![夜间模型管理](doc/preview/dark/doran-model-manage.jpg) |
+| ![夜间首页](../preview/dark/doran-home.jpg) | ![夜间初始对话](../preview/dark/doran-chat-init.jpg) | ![夜间模型管理](../preview/dark/doran-model-manage.jpg) |
 
 | 夜间历史记录 | 夜间数据统计 |
 |---|---|
-| ![夜间历史记录](doc/preview/dark/doran-history.jpg) | ![夜间数据统计](doc/preview/dark/doran-data.jpg) |
+| ![夜间历史记录](../preview/dark/doran-history.jpg) | ![夜间数据统计](../preview/dark/doran-data.jpg) |
 
 ## 文档
 
