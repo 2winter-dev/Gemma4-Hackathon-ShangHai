@@ -125,6 +125,10 @@ chmod +x sendModel.sh
 
 首次进入对话页会初始化 LiteRT-LM Engine，可能耗时较长。模拟器通常使用 `debug` 变体；真机如果想减少 APK 体积，优先使用 `phoneDebug`。模拟器通常缺少 OpenCL，建议优先使用 CPU 后端。
 
+## 演示视频
+
+<video src="../演示视频-DoranAI.mp4" controls preload="auto"></video>
+
 ## 演示流程
 
 1. 打开“模型管理”，展示本地 `.litertlm` 模型和健康检查。
@@ -171,11 +175,11 @@ chmod +x sendModel.sh
 
 ## 文档
 
-- [介绍网页](doc/doran_intro.html)
-- [技术报告](doc/technical_report.md)
-- [DoranAI核心代码文档](doc/code_documentation.md)
-- [照片视觉驱动评测方案](doc/phase2_image_eval_pipeline.md)
-- [内置品种先验库](doc/variety_priors.md)
+- [介绍网页](../doran_intro.html)
+- [技术报告](../technical_report.md)
+- [DoranAI核心代码文档](../code_documentation.md)
+- [照片视觉驱动评测方案](../phase2_image_eval_pipeline.md)
+- [内置品种先验库](../variety_priors.md)
 
 
 ## 核心源码索引
