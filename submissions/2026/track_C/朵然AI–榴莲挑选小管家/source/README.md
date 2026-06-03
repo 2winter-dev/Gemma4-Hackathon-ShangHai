@@ -127,7 +127,10 @@ chmod +x sendModel.sh
 
 ## 演示视频
 
-![演示视频-DoranAI](../演示视频-DoranAI.mp4)
+
+[![Doran AI 端侧榴莲挑选 Agent](../../preview/doran-splash.jpg)](../演示视频-DoranAI.mp4)
+
+
 
 ## 演示流程
 
