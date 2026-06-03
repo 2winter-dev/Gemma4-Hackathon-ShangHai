@@ -128,7 +128,7 @@ chmod +x sendModel.sh
 ## 演示视频
 
 
-[![Doran AI 端侧榴莲挑选 Agent](../../preview/doran-splash.jpg)](../演示视频-DoranAI.mp4)
+[![Doran AI 端侧榴莲挑选 Agent](https://github.com/2winter-dev/Gemma4-Hackathon-ShangHai/tree/main/submissions/2026/track_C/%E6%9C%B5%E7%84%B6AI%E2%80%93%E6%A6%B4%E8%8E%B2%E6%8C%91%E9%80%89%E5%B0%8F%E7%AE%A1%E5%AE%B6/preview/doran-splash.jpg)](https://github.com/2winter-dev/Gemma4-Hackathon-ShangHai/tree/main/submissions/2026/track_C/%E6%9C%B5%E7%84%B6AI%E2%80%93%E6%A6%B4%E8%8E%B2%E6%8C%91%E9%80%89%E5%B0%8F%E7%AE%A1%E5%AE%B6/演示视频-DoranAI.mp4)
 
 
 
