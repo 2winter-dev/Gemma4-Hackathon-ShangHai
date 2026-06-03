@@ -127,7 +127,7 @@ chmod +x sendModel.sh
 
 ## 演示视频
 
-<video src="../演示视频-DoranAI.mp4" controls preload="auto"></video>
+![演示视频-DoranAI](../演示视频-DoranAI.mp4)
 
 ## 演示流程
 
